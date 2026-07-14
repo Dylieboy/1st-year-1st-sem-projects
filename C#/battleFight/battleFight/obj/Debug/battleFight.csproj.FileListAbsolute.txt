@@ -1,0 +1,14 @@
+C:\Users\fivaz\OneDrive\Documents\SOD\battleFight\battleFight\bin\Debug\battleFight.exe.config
+C:\Users\fivaz\OneDrive\Documents\SOD\battleFight\battleFight\bin\Debug\battleFight.exe
+C:\Users\fivaz\OneDrive\Documents\SOD\battleFight\battleFight\bin\Debug\battleFight.pdb
+C:\Users\fivaz\OneDrive\Documents\SOD\battleFight\battleFight\obj\Debug\battleFight.csproj.AssemblyReference.cache
+C:\Users\fivaz\OneDrive\Documents\SOD\battleFight\battleFight\obj\Debug\battleFight.csproj.CoreCompileInputs.cache
+C:\Users\fivaz\OneDrive\Documents\SOD\battleFight\battleFight\obj\Debug\battleFight.exe
+C:\Users\fivaz\OneDrive\Documents\SOD\battleFight\battleFight\obj\Debug\battleFight.pdb
+D:\SOD\SOD_EXTRAS\battleFight\battleFight\bin\Debug\battleFight.exe.config
+D:\SOD\SOD_EXTRAS\battleFight\battleFight\bin\Debug\battleFight.exe
+D:\SOD\SOD_EXTRAS\battleFight\battleFight\bin\Debug\battleFight.pdb
+D:\SOD\SOD_EXTRAS\battleFight\battleFight\obj\Debug\battleFight.csproj.AssemblyReference.cache
+D:\SOD\SOD_EXTRAS\battleFight\battleFight\obj\Debug\battleFight.csproj.CoreCompileInputs.cache
+D:\SOD\SOD_EXTRAS\battleFight\battleFight\obj\Debug\battleFight.exe
+D:\SOD\SOD_EXTRAS\battleFight\battleFight\obj\Debug\battleFight.pdb
