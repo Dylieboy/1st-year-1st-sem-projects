@@ -15,12 +15,16 @@ This C# console application automates the process of calculating, grading, and r
 * **Data Formatting:** Uses native C# string formatting (`:F1` and `:F2`) to round averages to clear decimal places for professional output presentation.
 
 ## 📋 Sample Report Output
+
+![Student Grades Console Output](./Output.png)
+
+### Expected Console Output Text:
+```text
 Student         Exam Score      Overall Grade           Extra Credit
 
-Sophia:         92.2            95.88   A               94.0 (3.68 pts)
-Andrew:         89.6            91.38   A-              89.0 (1.78 pts)
+Sophia          92.2            95.88   A               92.0 (3.68 pts)
+Andrew          89.6            91.38   A-              89.0 (1.78 pts)
+Emma            85.6            90.94   A-              89.0 (5.34 pts)
+Logan           91.2            93.12   A               96.0 (1.92 pts)
 
-## 🚀 How to Run
-1. Open the project inside your IDE.
-2. Build and run the project.
-3. The program will print a clean, tab-aligned academic report directly in the console.
+Press the Enter key to continue
