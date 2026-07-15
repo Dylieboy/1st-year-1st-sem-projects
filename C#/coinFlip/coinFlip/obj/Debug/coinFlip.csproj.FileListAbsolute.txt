@@ -1,7 +1,0 @@
-D:\SOD\SOD_EXTRAS\coinFlip\coinFlip\bin\Debug\coinFlip.exe.config
-D:\SOD\SOD_EXTRAS\coinFlip\coinFlip\bin\Debug\coinFlip.exe
-D:\SOD\SOD_EXTRAS\coinFlip\coinFlip\bin\Debug\coinFlip.pdb
-D:\SOD\SOD_EXTRAS\coinFlip\coinFlip\obj\Debug\coinFlip.csproj.AssemblyReference.cache
-D:\SOD\SOD_EXTRAS\coinFlip\coinFlip\obj\Debug\coinFlip.csproj.CoreCompileInputs.cache
-D:\SOD\SOD_EXTRAS\coinFlip\coinFlip\obj\Debug\coinFlip.exe
-D:\SOD\SOD_EXTRAS\coinFlip\coinFlip\obj\Debug\coinFlip.pdb

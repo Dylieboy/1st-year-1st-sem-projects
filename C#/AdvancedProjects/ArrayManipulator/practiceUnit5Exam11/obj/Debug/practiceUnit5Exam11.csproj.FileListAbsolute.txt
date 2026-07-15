@@ -1,0 +1,7 @@
+D:\SOD\SOD_EXTRAS\practiceUnit5Exam11\practiceUnit5Exam11\bin\Debug\practiceUnit5Exam11.exe.config
+D:\SOD\SOD_EXTRAS\practiceUnit5Exam11\practiceUnit5Exam11\bin\Debug\practiceUnit5Exam11.exe
+D:\SOD\SOD_EXTRAS\practiceUnit5Exam11\practiceUnit5Exam11\bin\Debug\practiceUnit5Exam11.pdb
+D:\SOD\SOD_EXTRAS\practiceUnit5Exam11\practiceUnit5Exam11\obj\Debug\practiceUnit5Exam11.csproj.AssemblyReference.cache
+D:\SOD\SOD_EXTRAS\practiceUnit5Exam11\practiceUnit5Exam11\obj\Debug\practiceUnit5Exam11.csproj.CoreCompileInputs.cache
+D:\SOD\SOD_EXTRAS\practiceUnit5Exam11\practiceUnit5Exam11\obj\Debug\practiceUnit5Exam11.exe
+D:\SOD\SOD_EXTRAS\practiceUnit5Exam11\practiceUnit5Exam11\obj\Debug\practiceUnit5Exam11.pdb

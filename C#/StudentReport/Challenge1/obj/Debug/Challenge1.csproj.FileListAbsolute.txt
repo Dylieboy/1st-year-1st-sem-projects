@@ -1,7 +1,0 @@
-D:\SOD\SOD_EXTRAS\Challenge1\Challenge1\bin\Debug\Challenge1.exe.config
-D:\SOD\SOD_EXTRAS\Challenge1\Challenge1\bin\Debug\Challenge1.exe
-D:\SOD\SOD_EXTRAS\Challenge1\Challenge1\bin\Debug\Challenge1.pdb
-D:\SOD\SOD_EXTRAS\Challenge1\Challenge1\obj\Debug\Challenge1.csproj.AssemblyReference.cache
-D:\SOD\SOD_EXTRAS\Challenge1\Challenge1\obj\Debug\Challenge1.csproj.CoreCompileInputs.cache
-D:\SOD\SOD_EXTRAS\Challenge1\Challenge1\obj\Debug\Challenge1.exe
-D:\SOD\SOD_EXTRAS\Challenge1\Challenge1\obj\Debug\Challenge1.pdb
