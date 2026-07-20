@@ -1,0 +1,149 @@
+# Student Marks Manager
+
+A C# Console Application that calculates a student's final marks for multiple university subjects using different assessment weightings.
+
+---
+
+## Features
+
+- Menu-driven console interface
+- Calculates final marks for:
+  - ITM
+  - SOD
+  - PSA
+  - ITE
+  - LCS
+  - PIM
+- Input validation
+- Calculates the student's overall average
+- Modular code using methods
+- Easy to extend with new subjects
+
+---
+
+## Assessment Weightings
+
+### ITM
+
+| Assessment | Weight |
+|------------|-------:|
+| Test 1 | 25% |
+| Test 2 | 25% |
+| Test 3 | 50% |
+
+Formula:
+
+```
+Average(Test1, Test2) × 50%
++
+Test3 × 50%
+```
+
+---
+
+### SOD
+
+Uses the same weighting as ITM.
+
+---
+
+### PSA
+
+| Assessment | Weight |
+|------------|-------:|
+| Class Tasks (Average of 4) | 20% |
+| Test 1 | 30% |
+| Test 2 | 50% |
+
+Formula:
+
+```
+Average(Class Tasks) × 20%
++
+Test1 × 30%
++
+Test2 × 50%
+```
+
+---
+
+### LCS
+
+| Assessment | Weight |
+|------------|-------:|
+| Test 1 | 50% |
+| Test 2 | 50% |
+
+---
+
+### ITE
+
+Single final mark.
+
+---
+
+### PIM
+
+Single final mark.
+
+---
+
+## Example
+
+```
+================================
+     STUDENT MARKS MANAGER
+================================
+
+1. ITM
+2. SOD
+3. PSA
+4. ITE
+5. LCS
+6. PIM
+0. Exit
+
+Choose an option: 1
+
+Enter Test 1: 82
+Enter Test 2: 91
+Enter Test 3: 88
+
+Final ITM Mark: 87.25%
+
+Overall Average: 14.54%
+```
+
+---
+
+## Concepts Demonstrated
+
+- Arrays
+- Methods
+- Loops
+- Switch statements
+- Input validation
+- Modular programming
+- Weighted averages
+- Console applications
+
+---
+
+## Requirements
+
+- .NET SDK
+- Visual Studio 2022
+
+---
+
+## How to Run
+
+1. Clone the repository.
+2. Open the solution in Visual Studio.
+3. Build the project.
+4. Run the application.
+5. Select a subject from the menu.
+6. Enter the required marks.
+7. View the calculated final mark and updated overall average.
+
+---
