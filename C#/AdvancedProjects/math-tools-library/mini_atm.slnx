@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../Methods/Methods/Methods.csproj" Id="4db5ed1f-c8f9-4207-b3c2-4a021e1aa272" />
+  <Project Path="mini_atm/mini_atm.csproj" Id="db6445ff-329e-403c-b757-09b007d8ec20" />
+</Solution>

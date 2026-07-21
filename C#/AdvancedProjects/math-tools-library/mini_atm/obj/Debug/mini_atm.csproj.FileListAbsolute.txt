@@ -1,0 +1,7 @@
+C:\Users\fivaz\OneDrive\Documents\SOD\Holiday_Recap\mini_atm\mini_atm\bin\Debug\mini_atm.exe.config
+C:\Users\fivaz\OneDrive\Documents\SOD\Holiday_Recap\mini_atm\mini_atm\bin\Debug\mini_atm.exe
+C:\Users\fivaz\OneDrive\Documents\SOD\Holiday_Recap\mini_atm\mini_atm\bin\Debug\mini_atm.pdb
+C:\Users\fivaz\OneDrive\Documents\SOD\Holiday_Recap\mini_atm\mini_atm\obj\Debug\mini_atm.csproj.AssemblyReference.cache
+C:\Users\fivaz\OneDrive\Documents\SOD\Holiday_Recap\mini_atm\mini_atm\obj\Debug\mini_atm.csproj.CoreCompileInputs.cache
+C:\Users\fivaz\OneDrive\Documents\SOD\Holiday_Recap\mini_atm\mini_atm\obj\Debug\mini_atm.exe
+C:\Users\fivaz\OneDrive\Documents\SOD\Holiday_Recap\mini_atm\mini_atm\obj\Debug\mini_atm.pdb
