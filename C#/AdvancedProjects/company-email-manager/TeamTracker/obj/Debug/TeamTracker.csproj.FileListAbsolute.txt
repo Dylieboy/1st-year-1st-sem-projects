@@ -1,0 +1,7 @@
+C:\Users\fivaz\OneDrive\Documents\SOD\Holiday_Recap\TeamTracker\TeamTracker\bin\Debug\TeamTracker.exe.config
+C:\Users\fivaz\OneDrive\Documents\SOD\Holiday_Recap\TeamTracker\TeamTracker\bin\Debug\TeamTracker.exe
+C:\Users\fivaz\OneDrive\Documents\SOD\Holiday_Recap\TeamTracker\TeamTracker\bin\Debug\TeamTracker.pdb
+C:\Users\fivaz\OneDrive\Documents\SOD\Holiday_Recap\TeamTracker\TeamTracker\obj\Debug\TeamTracker.csproj.AssemblyReference.cache
+C:\Users\fivaz\OneDrive\Documents\SOD\Holiday_Recap\TeamTracker\TeamTracker\obj\Debug\TeamTracker.csproj.CoreCompileInputs.cache
+C:\Users\fivaz\OneDrive\Documents\SOD\Holiday_Recap\TeamTracker\TeamTracker\obj\Debug\TeamTracker.exe
+C:\Users\fivaz\OneDrive\Documents\SOD\Holiday_Recap\TeamTracker\TeamTracker\obj\Debug\TeamTracker.pdb
