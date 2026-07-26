@@ -12,3 +12,10 @@ D:\SOD\SOD_EXTRAS\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyR
 D:\SOD\SOD_EXTRAS\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 D:\SOD\SOD_EXTRAS\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 D:\SOD\SOD_EXTRAS\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\SOD\SOD_EXTRAS\GITHUB-UPLOADS\1st-year-1st-sem-projects\C#\SimpleProjects\NumberCounter\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\SOD\SOD_EXTRAS\GITHUB-UPLOADS\1st-year-1st-sem-projects\C#\SimpleProjects\NumberCounter\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\SOD\SOD_EXTRAS\GITHUB-UPLOADS\1st-year-1st-sem-projects\C#\SimpleProjects\NumberCounter\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\SOD\SOD_EXTRAS\GITHUB-UPLOADS\1st-year-1st-sem-projects\C#\SimpleProjects\NumberCounter\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\SOD\SOD_EXTRAS\GITHUB-UPLOADS\1st-year-1st-sem-projects\C#\SimpleProjects\NumberCounter\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\SOD\SOD_EXTRAS\GITHUB-UPLOADS\1st-year-1st-sem-projects\C#\SimpleProjects\NumberCounter\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\SOD\SOD_EXTRAS\GITHUB-UPLOADS\1st-year-1st-sem-projects\C#\SimpleProjects\NumberCounter\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

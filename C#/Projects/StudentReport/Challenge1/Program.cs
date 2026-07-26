@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Challenge1
+namespace StudentReport
 {
     internal class Program
     {
