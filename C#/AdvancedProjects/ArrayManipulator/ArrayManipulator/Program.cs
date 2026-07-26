@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ArrayPractice
+namespace ArrayManipulator
 {
     internal class Program
     {

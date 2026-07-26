@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace EmployeeDirectory
+namespace employeeInformationManager
 {
     internal class Program
     {

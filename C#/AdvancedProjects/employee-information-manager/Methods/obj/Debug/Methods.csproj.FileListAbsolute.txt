@@ -5,3 +5,10 @@ C:\Users\fivaz\OneDrive\Documents\SOD\Holiday_Recap\Methods\Methods\obj\Debug\Me
 C:\Users\fivaz\OneDrive\Documents\SOD\Holiday_Recap\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
 C:\Users\fivaz\OneDrive\Documents\SOD\Holiday_Recap\Methods\Methods\obj\Debug\Methods.exe
 C:\Users\fivaz\OneDrive\Documents\SOD\Holiday_Recap\Methods\Methods\obj\Debug\Methods.pdb
+D:\SOD\SOD_EXTRAS\GITHUB-UPLOADS\1st-year-1st-sem-projects\C#\AdvancedProjects\employee-information-manager\Methods\bin\Debug\Methods.exe.config
+D:\SOD\SOD_EXTRAS\GITHUB-UPLOADS\1st-year-1st-sem-projects\C#\AdvancedProjects\employee-information-manager\Methods\bin\Debug\Methods.exe
+D:\SOD\SOD_EXTRAS\GITHUB-UPLOADS\1st-year-1st-sem-projects\C#\AdvancedProjects\employee-information-manager\Methods\bin\Debug\Methods.pdb
+D:\SOD\SOD_EXTRAS\GITHUB-UPLOADS\1st-year-1st-sem-projects\C#\AdvancedProjects\employee-information-manager\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+D:\SOD\SOD_EXTRAS\GITHUB-UPLOADS\1st-year-1st-sem-projects\C#\AdvancedProjects\employee-information-manager\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+D:\SOD\SOD_EXTRAS\GITHUB-UPLOADS\1st-year-1st-sem-projects\C#\AdvancedProjects\employee-information-manager\Methods\obj\Debug\Methods.exe
+D:\SOD\SOD_EXTRAS\GITHUB-UPLOADS\1st-year-1st-sem-projects\C#\AdvancedProjects\employee-information-manager\Methods\obj\Debug\Methods.pdb

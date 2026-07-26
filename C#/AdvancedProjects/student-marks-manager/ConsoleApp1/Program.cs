@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace StudentMarksManager
+namespace studentMarksManager
 {
     internal class Program
     {
